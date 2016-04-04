@@ -1,0 +1,7 @@
+[
+	{ "keys": ["alt+shift+n"], "command": "new_scratch_view" },
+	{ "keys": ["ctrl+alt+s"], "command": "toggle_scratch" },
+	{ "keys": ["ctrl+alt+r"], "command": "toggle_read_only" },
+	{ "keys": ["ctrl+alt+l"], "command": "toggle_command_log" },
+	{ "keys": ["ctrl+alt+e"], "command": "toggle_encoding_hex_utf8" }
+]
